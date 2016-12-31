@@ -1,6 +1,6 @@
 # linux-server-configuration
 
-## Server details**
+## Server details
 * IP address: 35.162.67.134
 * SSH-port: 2200
 * URL: http://ec2-35-162-67-134.us-west-2.compute.amazonaws.com/
